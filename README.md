@@ -18,6 +18,7 @@
 + Botão de Carrinho
 + Botão de cor do tênis
 + Galeria de imagens
++ versão para pc
 
 ​​<h1>🔥​ Conclusão</h1>
 
